@@ -55,7 +55,6 @@ nav a:hover{
 }
 #feature{
     background-color: #e4e9f1;
-    height: 300px;
     display: flex;
 }
 .box{
@@ -91,4 +90,16 @@ nav a:hover{
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: antiquewhite;
+}
+#embed{
+    background-color: rgb(28, 71, 109);
+    display: flex;
+}
+.yt-box{
+    background-color: aqua;
+    width: 50%;
+}
+.google-map{
+    background-color: rgb(227, 105, 215);
+    width: 50%;
 }
